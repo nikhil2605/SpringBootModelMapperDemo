@@ -53,6 +53,7 @@ public class SpringBootModelMapperDemoApplication {
 		usersRepository.save(user1);
 		usersRepository.save(user2);
 		usersRepository.save(user3);
+
 	}
 
 }
